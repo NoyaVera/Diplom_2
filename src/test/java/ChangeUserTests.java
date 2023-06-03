@@ -1,6 +1,5 @@
 import User.User;
 import User.UserClient;
-import User.UserCredentials;
 import User.UserGeneration;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
